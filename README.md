@@ -22,7 +22,7 @@ Ubuntu 20.04
     cd /workspace
 ```
 
-* Instalar Docker
+### Instalar Docker
 
 * Atualize o aptíndice de pacotes e instale pacotes para permitir apto uso de um repositório por HTTPS
 ```
@@ -43,7 +43,7 @@ Ubuntu 20.04
 ```
 
 
-* Instalar Docker-compose
+### Instalar Docker-compose
 
 * Baixar versão estável do Docker compose
 ```
